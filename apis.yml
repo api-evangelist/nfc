@@ -8,9 +8,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - NFC
-  - Near Field Communication
   - Contactless
+  - Near Field Communication
+  - NFC
   - Payments
 url: https://raw.githubusercontent.com/api-evangelist/nfc/refs/heads/main/apis.yml
 created: '2025-01-01'
