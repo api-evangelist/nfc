@@ -32,7 +32,7 @@ apis: []
 common:
   - type: Reference
     url: https://nfc-forum.org/
-  - type: Specifications
+  - type: Specification
     url: https://nfc-forum.org/build/specifications
   - type: Release
     url: https://nfc-forum.org/nfc-release-15
