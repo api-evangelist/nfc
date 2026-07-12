@@ -40,6 +40,8 @@ common:
     url: https://nfc-forum.org/build/certification/resources
   - type: Members
     url: https://members.nfc-forum.org
+  - url: https://www.nfc-forum.org/news/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
