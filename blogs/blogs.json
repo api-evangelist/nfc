@@ -3,9 +3,9 @@
   "feeds": [
     {
       "source": "https://www.nfc-forum.org/news/",
-      "error": "HTTPError"
+      "error": "URLError"
     }
   ],
-  "fetched": "2026-08-06T14:08:46Z",
+  "fetched": "2026-08-22T20:20:02Z",
   "post_count": 3
 }
