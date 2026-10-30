@@ -1,4 +1,4 @@
-# NFC (nfc)
+# nfc
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,48 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Near Field Communication (NFC) is a set of short-range wireless communication protocols that enable two electronic devices to establish communication by bringing them within a few centimeters of each other. NFC is governed by the NFC Forum and standardized through ISO/IEC 18092 and ISO/IEC 14443. Common applications include contactless payments (Apple Pay, Google Pay), transit ticketing, access control, device pairing, smart posters, and secure identification. NFC defines several technical specifications including NDEF (data exchange format), NCI (controller interface), LLCP (link layer), SNEP (data exchange), and the Tag Type 1-5 operation specifications.
+## nfc on APIs.io
 
-**APIs.yml URL:** https://raw.githubusercontent.com/api-evangelist/nfc/refs/heads/main/apis.yml
+Everything profiled for nfc is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nfc/](https://apis.io/providers/nfc/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/nfc/](https://apis.io/providers/nfc/).
 
-## Tags
+## How this profile is made
 
-- Contactless
-- ISO/IEC 14443
-- ISO/IEC 18092
-- NDEF
-- Near Field Communication
-- NFC
-- NFC Forum
-- Payments
-- RFID
-- Standards
-- Wireless
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for nfc: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## APIs
-
-NFC is a wireless communication standard, not a network API. Implementations are exposed through platform SDKs (Android `android.nfc`, Apple Core NFC, Web NFC) rather than a single REST API. No public REST/OpenAPI surface is tracked here.
-
-## Common Properties
-
-- [Reference](https://nfc-forum.org/)
-- [Specifications](https://nfc-forum.org/build/specifications)
-- [NFC Release 15](https://nfc-forum.org/nfc-release-15)
-- [Certification Resources](https://nfc-forum.org/build/certification/resources)
-- [Members Portal](https://members.nfc-forum.org)
-
-## Maintainers
-
-- **FN:** Kin Lane
-- **Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nfc/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
